@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import 'modern-normalize/modern-normalize.css';
-import App from "./App/App.tsx";
+import App from "./components/App/App.tsx";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
